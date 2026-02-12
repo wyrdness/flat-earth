@@ -1,0 +1,401 @@
+{
+  "category": "CONSPIRACY_THEORY",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/flat-earth",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "flat-earth",
+    "name": "Flat Earth",
+    "aliases": [
+      {
+        "name": "Flat Earth Theory",
+        "meaning": "Common modern term"
+      },
+      {
+        "name": "Planar Earth",
+        "meaning": "Alternative terminology"
+      }
+    ],
+    "category": "CONSPIRACY_THEORY",
+    "subcategory": "Science Denial",
+    "tags": [
+      "pseudoscience",
+      "debunked",
+      "science-denial",
+      "internet-phenomenon",
+      "nasa-conspiracy",
+      "youtube-radicalization"
+    ],
+    "status": "debunked",
+    "description": {
+      "summary": "Belief that Earth is a flat plane rather than a sphere or oblate spheroid. Despite overwhelming scientific evidence spanning millennia proving Earth's spherical shape, the belief experienced a modern resurgence through internet communities and YouTube algorithms.",
+      "full": "The Flat Earth belief claims that Earth is a flat plane rather than the scientifically proven oblate spheroid. Modern Flat Earth believers typically claim NASA and governments hide the truth, space exploration is faked, and Antarctica forms an ice wall barrier. Various models exist including dome sky, infinite plane, and disc with edge. The belief contradicts millennia of evidence including ships disappearing hull-first over horizon, changing star positions, satellite technology, physics, photographs from space, and circumnavigation. Ancient Greeks knew Earth was spherical (Eratosthenes measured it in 240 BCE). The modern resurgence began in the 2000s through internet communities, particularly amplified by YouTube recommendation algorithms. Earth is demonstrably spherical with overwhelming evidence. The belief represents science denial and serves as a gateway to other conspiracy theories."
+    },
+    "etymology": {
+      "origin": "Self-descriptive term for the belief that Earth is flat rather than spherical",
+      "meaning": "Earth shaped as a flat plane",
+      "modern_usage": "2000s resurgence"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CONSPIRACY_THEORY",
+      "type": "Science Denial",
+      "subtype": "Cosmology/Geography",
+      "variant": "Pseudoscientific"
+    },
+    "related_phenomena": [
+      {
+        "id": "nasa-conspiracy",
+        "name": "NASA Conspiracy Theories",
+        "relationship": "connected",
+        "description": "Claims NASA fakes space exploration"
+      },
+      {
+        "id": "moon-landing-hoax",
+        "name": "Moon Landing Hoax",
+        "relationship": "related",
+        "description": "Often believed alongside flat Earth"
+      },
+      {
+        "id": "conspiracy-gateway",
+        "name": "Gateway Conspiracy Belief",
+        "relationship": "precursor",
+        "description": "Flat Earth often leads to belief in other conspiracies"
+      }
+    ]
+  },
+
+  "flat_earth_models": {
+    "common_models": [
+      {
+        "model": "Disc with dome",
+        "description": "Flat disc with dome-shaped sky (firmament), sun/moon/stars rotate inside dome",
+        "antarctica": "Ice wall forms edge, preventing water from flowing off",
+        "prevalence": "Most common modern flat Earth model"
+      },
+      {
+        "model": "Infinite plane",
+        "description": "Earth extends infinitely in all directions, known world is small section",
+        "antarctica": "Ice wall marks boundary of known world, more land beyond",
+        "prevalence": "Less common variant"
+      },
+      {
+        "model": "Disc with edge",
+        "description": "Finite disc with edge that can be reached",
+        "antarctica": "Ice wall or barrier prevents reaching edge",
+        "prevalence": "Rare in modern flat Earth belief"
+      }
+    ],
+    "common_elements": [
+      "Sun and moon are small and local (not millions of miles away)",
+      "Stars are lights in dome/firmament, not distant suns",
+      "Gravity doesn't exist or is replaced by 'density' or 'buoyancy'",
+      "Antarctica is ice wall barrier (guarded by government/NASA)",
+      "Space exploration is faked (NASA, other space agencies)",
+      "Globe Earth is conspiracy by governments/scientists/elites"
+    ]
+  },
+
+  "claims": {
+    "alleged_evidence": [
+      {
+        "claim": "Horizon appears flat",
+        "description": "Looking at ocean or flat land, horizon looks flat not curved",
+        "reality": "Earth is too large for curvature to be obvious at ground level; curve visible from high altitude/aircraft"
+      },
+      {
+        "claim": "Water doesn't curve",
+        "description": "Water always finds level, can't stick to spinning ball",
+        "reality": "Gravity pulls water toward Earth's center of mass, creating spherical ocean surface"
+      },
+      {
+        "claim": "No curve in long-distance photography",
+        "description": "Distant objects visible that should be hidden by curvature",
+        "reality": "Atmospheric refraction can bend light, allowing visibility beyond geometric horizon"
+      },
+      {
+        "claim": "No airplane compensation for curve",
+        "description": "Planes don't adjust nose down to follow curve",
+        "reality": "Planes fly at constant altitude above curved surface; gravity provides constant downward pull"
+      },
+      {
+        "claim": "Stars don't change position enough",
+        "description": "If Earth orbits sun, star positions should change more",
+        "reality": "Stellar parallax is measurable but small due to vast distances; has been measured since 1838"
+      }
+    ],
+    "conspiracy_claims": [
+      {
+        "claim": "NASA fakes space exploration",
+        "alleged_evidence": "Anomalies in photos, CGI claims",
+        "reality": "Photos explained by camera physics; independent space agencies worldwide"
+      },
+      {
+        "claim": "Antarctica is guarded ice wall",
+        "alleged_evidence": "Antarctic Treaty restricts access",
+        "reality": "Treaty preserves continent for science; tourism and research expeditions occur regularly"
+      },
+      {
+        "claim": "All governments and scientists conspiring",
+        "alleged_evidence": "Universal acceptance of globe Earth",
+        "reality": "Scientific consensus based on evidence; impossible to maintain worldwide conspiracy"
+      },
+      {
+        "claim": "Globe Earth for control/deception",
+        "alleged_evidence": "Various conspiracy theories",
+        "reality": "No motive or mechanism for such deception; shape of Earth doesn't enable control"
+      }
+    ]
+  },
+
+  "scientific_evidence": {
+    "ancient_knowledge": {
+      "description": "Earth's spherical shape has been known for millennia",
+      "evidence": [
+        {
+          "date": "~500 BCE",
+          "civilization": "Ancient Greece",
+          "person": "Pythagoras",
+          "contribution": "Proposed spherical Earth based on observations"
+        },
+        {
+          "date": "~350 BCE",
+          "civilization": "Ancient Greece",
+          "person": "Aristotle",
+          "contribution": "Provided evidence: ships disappear hull-first, changing star positions, Earth's shadow on moon is round"
+        },
+        {
+          "date": "~240 BCE",
+          "civilization": "Hellenistic",
+          "person": "Eratosthenes",
+          "contribution": "Calculated Earth's circumference with remarkable accuracy using shadow angles"
+        }
+      ],
+      "note": "Educated people have known Earth is spherical for over 2,000 years"
+    },
+    "modern_evidence": [
+      {
+        "type": "Ships disappearing hull-first",
+        "description": "Ships disappear over horizon bottom-first, proving curvature",
+        "observation": "Visible to anyone near large body of water",
+        "debunks_flat_earth": "On flat plane, entire ship would remain visible shrinking into distance"
+      },
+      {
+        "type": "Star positions change with latitude",
+        "description": "Different stars visible from different latitudes; southern/northern hemispheres see different stars",
+        "observation": "Documented for millennia; observable to anyone traveling north-south",
+        "debunks_flat_earth": "Only possible on sphere; flat plane would show same stars from all positions"
+      },
+      {
+        "type": "Time zones",
+        "description": "Different local times across globe due to Earth's rotation",
+        "observation": "Sunset/sunrise occurs at different times; provable with phone calls/internet",
+        "debunks_flat_earth": "Flat Earth models can't explain simultaneous day/night across world"
+      },
+      {
+        "type": "Circumnavigation",
+        "description": "Traveling continuously east or west returns to starting point",
+        "observation": "Accomplished countless times by sea and air",
+        "debunks_flat_earth": "Impossible on flat plane with edge"
+      },
+      {
+        "type": "Satellite technology",
+        "description": "GPS, communications, weather satellites function based on spherical Earth orbits",
+        "observation": "Billions use GPS daily; satellite TV works worldwide",
+        "debunks_flat_earth": "System only functions with spherical Earth and orbital mechanics"
+      },
+      {
+        "type": "Photographs from space",
+        "description": "Thousands of photos from multiple space agencies, private companies, astronauts",
+        "observation": "NASA, ESA, Roscosmos, CNSA, SpaceX, etc. all show spherical Earth",
+        "debunks_flat_earth": "Independent agencies from competing nations all show same spherical Earth"
+      },
+      {
+        "type": "Physics and gravity",
+        "description": "Gravity pulls objects toward center of mass, creating sphere",
+        "observation": "All large celestial bodies are spherical due to gravity",
+        "debunks_flat_earth": "Flat Earth violates fundamental physics; no mechanism for flat shape under gravity"
+      },
+      {
+        "type": "Lunar eclipse",
+        "description": "Earth's shadow on moon is always circular, proving spherical shape",
+        "observation": "Observable during every lunar eclipse",
+        "debunks_flat_earth": "Only sphere casts circular shadow from all angles"
+      },
+      {
+        "type": "Coriolis effect",
+        "description": "Rotation causes deflection of moving objects; affects weather, ballistics",
+        "observation": "Hurricanes rotate differently in hemispheres; measurable in physics",
+        "debunks_flat_earth": "Effect only occurs on rotating sphere"
+      }
+    ],
+    "scientific_consensus": "Earth is an oblate spheroid (slightly flattened sphere). This is scientific fact proven by overwhelming evidence from multiple independent fields: astronomy, physics, geology, navigation, space exploration."
+  },
+
+  "history": {
+    "historical_belief": {
+      "note": "Contrary to popular myth, educated people have NOT believed in flat Earth for millennia",
+      "reality": "Medieval scholars knew Earth was spherical; 'flat Earth' medieval belief is modern myth",
+      "flat_earth_societies": "Modern flat Earth belief is fringe phenomenon, not continuation of historical consensus"
+    },
+    "modern_resurgence": [
+      {
+        "period": "1956",
+        "event": "Samuel Shenton founds Flat Earth Society (UK)",
+        "significance": "Modern organized flat Earth movement begins",
+        "context": "Fringe belief, very small following"
+      },
+      {
+        "period": "1970s-1990s",
+        "event": "Charles K. Johnson leads Flat Earth Society (USA)",
+        "significance": "American flat Earth advocacy",
+        "context": "Remained small fringe group"
+      },
+      {
+        "period": "2000s",
+        "event": "Internet communities form",
+        "significance": "Online forums and websites allow believers to connect",
+        "context": "Still fringe but growing through internet"
+      },
+      {
+        "period": "2014-2016",
+        "event": "YouTube algorithm amplification",
+        "significance": "Flat Earth videos recommended to viewers, explosive growth",
+        "context": "Algorithmic radicalization phenomenon"
+      },
+      {
+        "period": "2017-present",
+        "event": "Flat Earth conferences, celebrity endorsements",
+        "significance": "Mainstream media coverage, peak visibility",
+        "context": "Mix of true believers and trolls; cultural phenomenon"
+      }
+    ],
+    "youtube_radicalization": {
+      "description": "YouTube's recommendation algorithm heavily promoted flat Earth videos in mid-2010s",
+      "mechanism": "Users watching conspiracy content recommended increasingly extreme videos",
+      "impact": "Rapid growth in flat Earth belief; many believers cite YouTube as introduction",
+      "response": "YouTube later adjusted algorithm to reduce conspiracy theory promotion"
+    }
+  },
+
+  "psychology": {
+    "cognitive_factors": [
+      {
+        "factor": "Contrarian identity",
+        "description": "Belief provides identity as someone who 'knows truth' others don't",
+        "relevance": "Social identity as enlightened truth-seeker"
+      },
+      {
+        "factor": "Distrust of institutions",
+        "description": "Deep skepticism toward science, government, authority",
+        "relevance": "Rejection of scientific consensus as conspiracy"
+      },
+      {
+        "factor": "Community belonging",
+        "description": "Flat Earth community provides social connection and acceptance",
+        "relevance": "Strong in-group bonds, us-vs-them mentality"
+      },
+      {
+        "factor": "Intuitive physics",
+        "description": "Earth 'feels' stationary and flat from ground level",
+        "relevance": "Trusting personal experience over abstract science"
+      },
+      {
+        "factor": "Religious literalism",
+        "description": "Some interpret biblical passages as describing flat Earth",
+        "relevance": "Religious motivation for belief"
+      }
+    ],
+    "social_factors": [
+      "YouTube algorithm creating echo chambers",
+      "Social media reinforcement",
+      "In-group validation and out-group rejection",
+      "Persecution complex (being 'silenced' for 'truth')",
+      "Entertainment and trolling mixed with genuine belief"
+    ]
+  },
+
+  "dangers": {
+    "science_denial": "Flat Earth represents fundamental rejection of scientific method and evidence",
+    "gateway_belief": "Often leads to belief in other conspiracy theories (QAnon, anti-vaccine, etc.)",
+    "educational_harm": "Children exposed to flat Earth misinformation",
+    "critical_thinking": "Promotes rejection of evidence-based reasoning",
+    "social_division": "Creates conflict with family/friends over provably false belief"
+  },
+
+  "debunking": {
+    "simple_proofs": [
+      "Watch ship disappear hull-first over ocean horizon",
+      "Call someone in different time zone during your daytime - confirm it's nighttime there",
+      "Observe different stars from different latitudes",
+      "Use GPS (requires satellites in spherical Earth orbit)",
+      "Watch lunar eclipse - Earth's shadow on moon is circular",
+      "Book circumnavigation flight, observe continuous eastward/westward travel"
+    ],
+    "experiments": [
+      {
+        "name": "Bedford Level experiment",
+        "description": "19th century experiment measuring water curvature",
+        "flat_earth_claim": "Proved flat Earth",
+        "reality": "Proved spherical Earth when conducted properly; flat Earthers use debunked version"
+      },
+      {
+        "name": "Laser tests",
+        "description": "Laser aimed across lake",
+        "flat_earth_claim": "Laser stays level, no curve",
+        "reality": "Refraction affects results; proper tests show curvature"
+      },
+      {
+        "name": "Behind the Curve documentary",
+        "description": "2019 documentary featuring flat Earth experiments",
+        "result": "Flat Earthers' own experiments prove spherical Earth, but they reject results"
+      }
+    ],
+    "logical_impossibility": "Flat Earth models cannot explain: time zones, seasons, star positions, satellite technology, circumnavigation, physics. Every explanation requires ad-hoc special pleading."
+  },
+
+  "sources": [
+    {
+      "id": "garwood-2007",
+      "type": "book",
+      "title": "Flat Earth: The History of an Infamous Idea",
+      "authors": ["Christine Garwood"],
+      "publication": "Thomas Dunne Books",
+      "date": "2007",
+      "isbn": "978-0312382087"
+    },
+    {
+      "id": "behind-the-curve",
+      "type": "documentary",
+      "title": "Behind the Curve",
+      "director": "Daniel J. Clark",
+      "platform": "Netflix",
+      "date": "2019"
+    },
+    {
+      "id": "eratosthenes-measurement",
+      "type": "historical",
+      "title": "Eratosthenes' Measurement of Earth's Circumference",
+      "date": "~240 BCE",
+      "description": "Ancient calculation of Earth's size proving spherical shape"
+    }
+  ]
+}
